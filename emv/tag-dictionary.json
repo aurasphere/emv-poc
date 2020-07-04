@@ -1,0 +1,16 @@
+{
+    "6F" : "File Control Information (FCI) Template",
+    "84" : "Dedicated File (DF) Name",
+    "9F38" : "Processing Options Data Object List (PDOL)",
+    "5F2D" : "Language preference",
+    "BF0C" : "File Control Information (FCI) Issuer Discretionary Data",
+    "9F5A" : "Application Program Identifier (Program ID)",
+    "A5" : "File Control Information (FCI) Proprietary Template",
+    "50" : "Application Label",
+    "87" : "Application Priority Indicator",
+    "5F24" : "Transaction Currency Code",
+    "9F66" : "Terminal Transaction Qualifiers (TTQ)",
+    "9F02" : "Amount, Authorised (Numeric)",
+    "9F37" : "Unpredictable Number (UN)",
+    "5F2A" : "Transaction Currency Code"
+}
